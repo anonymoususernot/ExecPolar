@@ -242,3 +242,5 @@ Developed by \[Polar Exec Team]
 
 \*\*Version 2.3\*\* | Built with ☕ and late nights
 
+ByfronBypass.exe is not confirmed if it is safe or not , the Polar team did not make this .exe , it is *optional to run this*.
+
